@@ -1,6 +1,6 @@
 ## Hello, welcome!
 
-Nextjs application to class scheduling
+Nextjs application to check weather
 
 ## How to run
 
