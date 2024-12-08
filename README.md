@@ -1,6 +1,6 @@
 ## Hello, welcome!
 
-Nextjs application to check weather
+NextJS application to check weather
 
 ## How to run
 
